@@ -1,0 +1,6 @@
+@ImageScaler_HostAddress = http://localhost:5140
+
+GET {{ImageScaler_HostAddress}}/test/
+Accept: application/json
+
+###
