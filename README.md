@@ -8,4 +8,4 @@ API functions (Swagger):
 
 Supported image formats for upload and conversion are jpg, png, bmp, tiff, and gif. When changing the extension this should be specified as ".[extension]", for example ".jpg", ".png", etc.
 
-Can be deployed as a standalone API or microservice within a container.
+Can be deployed as a standalone API or containerised microservice.
